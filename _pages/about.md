@@ -12,7 +12,7 @@ My work focuses on creating safe, physiologically grounded AI systems that impro
 
 ## Short Bio  
 
-I am the founding Product and Engineering leader at Exploris Health, where I design and build next-generation clinical foundation models and AI diagnostics for cardiovascular disease. My work spans model architecture, data strategy, clinical workflow design, and regulatory deployment.
+I am the founding Product and Engineering leader at Exploris Health, where I design and build next-generation clinical foundation models and AI diagnostics for cardiovascular disease. My work spans product positioning & placement,  model architecture, data strategy, clinical workflow design, and regulatory deployment.
 
 Previously, I served as a Director at Idorsia, where I led Real-World Evidence, HTA Statistics, and a Computational Science group supporting both development and commercialization. Before that, I was the Global Product and Machine Learning Leader at IBM, responsible for the Life Sciences portfolio within IBM’s Global AI Team. I began my career as an Equity Structurer at Deutsche Bank, developing quantitative models in high-pressure, decision-critical environments.
 
