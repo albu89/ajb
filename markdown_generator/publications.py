@@ -62,18 +62,40 @@ def html_escape(text):
 # In[5]:
 
 import os
+import re
+
 for row, item in publications.iterrows():
     
-    md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.pub_date) + "-" + item.url_slug
+    # Extract url_slug from site_url if url_slug column doesn't exist
+    # The site_url format is: https://yourdomain/publications/YYYY-MM-DD-slug
+    if 'url_slug' in publications.columns:
+        url_slug = item.url_slug
+    else:
+        # Extract slug from site_url (part after last / and remove date prefix)
+        url_slug = item.site_url.split('/')[-1] if pd.notna(item.site_url) else ''
+        # Remove date prefix (YYYY-MM-DD-) if present
+        date_prefix = str(item.pub_date) + "-"
+        if url_slug.startswith(date_prefix):
+            url_slug = url_slug[len(date_prefix):]
+        # If still empty, generate from title
+        if not url_slug or url_slug == '':
+            # Create a simple slug from title: lowercase, replace spaces with hyphens, remove special chars
+            url_slug = re.sub(r'[^a-z0-9]+', '-', item.title.lower().strip())
+            url_slug = re.sub(r'^-+|-+$', '', url_slug)  # Remove leading/trailing hyphens
+    
+    md_filename = str(item.pub_date) + "-" + url_slug + ".md"
+    html_filename = str(item.pub_date) + "-" + url_slug
     year = item.pub_date[:4]
     
     ## YAML variables
     
     md = "---\ntitle: \""   + item.title + '"\n'
 
-    # TODO Update to use the category assigned in the TSV file
-    md += """collection: manuscripts"""
+    # Collection must be 'publications' for Jekyll to find the files
+    md += """collection: publications"""
+    
+    # Category is used for grouping on the publications page (manuscripts, books, conferences)
+    md += """\ncategory: manuscripts"""
     
     md += """\npermalink: /publication/""" + html_filename
     
