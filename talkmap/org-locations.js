@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "From arteries to algorithms: Foundation models for coronary artery disease diagnosis and cardiovascular risk assessment<br />EPFL; Lausanne, CH",
+    46.5218269,
+    6.6327025
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "AI generated ontologies and their impact on the quality of real-world data<br />AMLD EPFL; Lausanne, CH",
+    46.5218269,
+    6.6327025
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Debate format session AI in cardiovascular health Opportunities and threats<br />World Heart Summit; Geneva, CH",
+    46.2017559,
+    6.1466014
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Causality for Multimodal Learning in Healthcare Applications<br />EPFL; Lausanne, CH",
+    46.5218269,
+    6.6327025
+  ],
+  [
+    "From arteries to algorithms: foundational models for coronary artery disease diagnosis and cardiovascular risk assessment<br />European Society of Cardiology; Berlin, DE",
+    52.5173885,
+    13.3951309
   ]
 ];
