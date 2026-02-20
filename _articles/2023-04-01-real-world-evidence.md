@@ -3,7 +3,7 @@ title: "AI-powered real-world evidence generation for biotechs"
 collection: articles
 permalink: /articles/2025-01-01-sample-article
 excerpt: ""
-date: 2019-04-01
+date: 2023-04-01
 venue: "Pharmaphorum"
 articleurl: "https://pharmaphorum.com/rd/ai-powered-real-world-evidence-generation-biotechs"
 ---
