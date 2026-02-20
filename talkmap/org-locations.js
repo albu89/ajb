@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Expert Forum on Digital Health Data<br />Swiss Re Institute; Online",
+    43.5904719,
+    3.8595132
+  ],
+  [
     "From arteries to algorithms: Foundation models for coronary artery disease diagnosis and cardiovascular risk assessment<br />AMLD EPFL; Lausanne, CH",
     46.5218269,
     6.6327025
