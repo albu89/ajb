@@ -21,10 +21,10 @@ Previously, I served as a Director at [Idorsia](https://www.idorsia.com), where 
 My research centers on representation learning for clinical and physiological data, with an emphasis on safety, grounding, and translational utility. I develop methods that:
 
 • model noisy, biased, and incomplete real-world data,  
-• guide transformers toward physiologically meaningful behavior,  
+• guide transformers toward [physiologically meaningful behavior](https://patents.google.com/patent/US20230092186A1/en),  
 • improve biomarker discovery and multimodal disease modeling,  
 • enhance diagnostic accuracy and treatment-effect estimation, and  
-• build ontology-driven and foundation-model architectures for medicine.
+• apply language models to learn new [disease representations (ontologies)](https://www.nature.com/articles/s43856-024-00698-2) 
 
 My work spans diagnostics and therapeutics, supporting multiple launched products and demonstrating strong translational and regulatory impact. I focus on bridging foundational research with deployable, clinically trustworthy AI systems.
 
