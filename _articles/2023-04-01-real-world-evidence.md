@@ -1,7 +1,7 @@
 ---
 title: "AI-powered real-world evidence generation for biotechs"
 collection: articles
-permalink: /articles/2025-01-01-sample-article
+permalink: /articles/2023-04-01-real-world-evidence
 excerpt: ""
 date: 2023-04-01
 venue: "Pharmaphorum"

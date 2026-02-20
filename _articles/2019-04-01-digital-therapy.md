@@ -1,7 +1,7 @@
 ---
 title: "How digital therapy benefits patients, providers, and the health ecosystem"
 collection: articles
-permalink: /articles/2025-01-01-sample-article
+permalink: /articles/2019-04-01-digital-therapy
 excerpt: ""
 date: 2019-04-01
 venue: "IBM Institute for Business Value"

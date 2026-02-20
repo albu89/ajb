@@ -1,10 +1,10 @@
 ---
 title: "Building a Quality Department for Regulatory-Grade AI Products: Lessons from a Product & Engineering Organization"
 collection: articles
-permalink: /articles/2025-01-01-sample-article
+permalink: /articles/2025-10-09-building-quality-dept
 excerpt: ""
 date: 2025-10-09
-venue: "Pharmaphorum"
+venue: "linkedin"
 articleurl: "https://www.linkedin.com/pulse/building-quality-department-regulatory-grade-ai-products-b%C3%BCsser-yeyyc/?trackingId=iiUvvjqDTN%2BXhOMvSUn6Ug%3D%3D"
 ---
 
