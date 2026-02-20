@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "From arteries to algorithms: Foundation models for coronary artery disease diagnosis and cardiovascular risk assessment<br />EPFL; Lausanne, CH",
+    "From arteries to algorithms: Foundation models for coronary artery disease diagnosis and cardiovascular risk assessment<br />AMLD EPFL; Lausanne, CH",
     46.5218269,
     6.6327025
   ],
@@ -15,7 +15,7 @@ var addressPoints = [
     6.1466014
   ],
   [
-    "Causality for Multimodal Learning in Healthcare Applications<br />EPFL; Lausanne, CH",
+    "Causality for Multimodal Learning in Healthcare Applications<br />AMLD EPFL; Lausanne, CH",
     46.5218269,
     6.6327025
   ],
