@@ -122,7 +122,7 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
 
   <article class="product-row">
     <a class="product-media" href="https://www.idorsia.com/our-innovation/portfolio/daridorexant.html" target="_blank" rel="noopener">
-      <img src="/images/products/daridorexant.jpg" alt="Daridorexant" loading="lazy" />
+      <img src="/images/products/daridorexant.png" alt="Daridorexant" loading="lazy" />
     </a>
     <div class="product-body">
       <h3><a href="https://www.idorsia.com/our-innovation/portfolio/daridorexant.html" target="_blank" rel="noopener">Daridorexant</a></h3>
@@ -140,7 +140,7 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
 
   <article class="product-row">
     <a class="product-media" href="https://www.toujeo.com/" target="_blank" rel="noopener">
-      <img src="/images/products/toujeo.jpg" alt="Toujeo" loading="lazy" />
+      <img src="/images/products/toujeo.png" alt="Toujeo" loading="lazy" />
     </a>
     <div class="product-body">
       <h3><a href="https://www.toujeo.com/" target="_blank" rel="noopener">Toujeo</a></h3>
