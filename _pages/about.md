@@ -63,6 +63,7 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
   }
   .product-body h3 { margin: 0 0 0.35rem 0; }
   .product-one-liner { margin: 0 0 0.85rem 0; opacity: 0.92; }
+  .product-row:nth-of-type(even) { grid-template-columns: 1fr 260px; }
   .product-row:nth-of-type(even) .product-media { order: 2; }
   .product-row:nth-of-type(even) .product-body { order: 1; }
   .work-buttons {
