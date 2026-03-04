@@ -46,16 +46,17 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
   .product-media {
     border-radius: 12px;
     min-height: 150px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+    display: block;
+    overflow: hidden;
     text-decoration: none;
-    font-weight: 700;
-    letter-spacing: 0.02em;
-    padding: 1rem;
-    background: linear-gradient(135deg, rgba(20, 120, 220, 0.14), rgba(20, 120, 220, 0.03));
     border: 1px solid rgba(127, 127, 127, 0.25);
+  }
+  .product-media img {
+    width: 100%;
+    height: 100%;
+    min-height: 150px;
+    object-fit: cover;
+    display: block;
   }
   .product-body h3 { margin: 0 0 0.35rem 0; }
   .product-one-liner { margin: 0 0 0.85rem 0; opacity: 0.92; }
@@ -82,7 +83,9 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
   </p>
 
   <article class="product-row">
-    <a class="product-media" href="https://www.cardioexplorer.ai/" target="_blank" rel="noopener">Cardio Explorer</a>
+    <a class="product-media" href="https://www.cardioexplorer.ai/" target="_blank" rel="noopener">
+      <img src="/images/products/cardio-explorer.png" alt="Cardio Explorer" loading="lazy" />
+    </a>
     <div class="product-body">
       <h3><a href="https://www.cardioexplorer.ai/" target="_blank" rel="noopener">Cardio Explorer</a></h3>
       <p class="product-one-liner">AI diagnostic for chronic coronary syndrome, deployed in real-world clinical settings.</p>
@@ -98,7 +101,9 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
   </article>
 
   <article class="product-row">
-    <a class="product-media" href="https://www.accu-chek.ch/fachkraefte/smartguide" target="_blank" rel="noopener">Accu-Check SmartGuide CGM</a>
+    <a class="product-media" href="https://www.accu-chek.ch/fachkraefte/smartguide" target="_blank" rel="noopener">
+      <img src="/images/products/smart-life.png" alt="Accu-Check SmartGuide CGM" loading="lazy" />
+    </a>
     <div class="product-body">
       <h3><a href="https://www.accu-chek.ch/fachkraefte/smartguide" target="_blank" rel="noopener">Accu-Check SmartGuide CGM</a></h3>
       <p class="product-one-liner">CGM innovation combining sensing and analytics to improve diabetes management.</p>
@@ -114,7 +119,9 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
   </article>
 
   <article class="product-row">
-    <a class="product-media" href="https://www.idorsia.com/our-innovation/portfolio/daridorexant.html" target="_blank" rel="noopener">Daridorexant</a>
+    <a class="product-media" href="https://www.idorsia.com/our-innovation/portfolio/daridorexant.html" target="_blank" rel="noopener">
+      <img src="/images/products/daridorexant.jpg" alt="Daridorexant" loading="lazy" />
+    </a>
     <div class="product-body">
       <h3><a href="https://www.idorsia.com/our-innovation/portfolio/daridorexant.html" target="_blank" rel="noopener">Daridorexant</a></h3>
       <p class="product-one-liner">Orexin receptor antagonist program supported by evidence strategy and RWE.</p>
@@ -130,7 +137,9 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
   </article>
 
   <article class="product-row">
-    <a class="product-media" href="https://www.toujeo.com/" target="_blank" rel="noopener">Toujeo</a>
+    <a class="product-media" href="https://www.toujeo.com/" target="_blank" rel="noopener">
+      <img src="/images/products/toujeo.jpg" alt="Toujeo" loading="lazy" />
+    </a>
     <div class="product-body">
       <h3><a href="https://www.toujeo.com/" target="_blank" rel="noopener">Toujeo</a></h3>
       <p class="product-one-liner">Long-acting insulin supported by real-world evidence and launch enablement work.</p>
