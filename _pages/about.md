@@ -58,19 +58,11 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
     border: 1px solid rgba(127, 127, 127, 0.35);
     border-radius: 12px;
   }
+  .product-media img.toujeo-image {
+    object-position: top center;
+  }
   .product-body h3 { margin: 0 0 0.35rem 0; }
   .product-one-liner { margin: 0 0 0.85rem 0; opacity: 0.92; }
-  .product-points { margin: 0 0 0.9rem 1.1rem; }
-  .product-points li { margin: 0.35rem 0; }
-  .product-actions { display: flex; gap: 10px; flex-wrap: wrap; }
-  .product-actions .btn {
-    display: inline-flex;
-    align-items: center;
-    padding: 8px 12px;
-    border-radius: 10px;
-    border: 1px solid rgba(127, 127, 127, 0.35);
-    text-decoration: none;
-  }
   @media (max-width: 900px) {
     .product-row { grid-template-columns: 1fr; }
   }
@@ -78,7 +70,7 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
 
 <section class="product-section">
   <p class="section-subtitle">
-    A few products and programs where I contributed across <b>product</b>, <b>evidence</b>, and <b>engineering</b>.
+    Selected products and programs.
   </p>
 
   <article class="product-row">
@@ -88,14 +80,6 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
     <div class="product-body">
       <h3><a href="https://www.cardioexplorer.ai/" target="_blank" rel="noopener">Cardio Explorer</a></h3>
       <p class="product-one-liner">AI diagnostic for chronic coronary syndrome, deployed in real-world clinical settings.</p>
-      <ul class="product-points">
-        <li><b>Impact:</b> Clinical deployment and regulated diagnostic productization.</li>
-        <li><b>My role:</b> Product/engineering/evidence leadership across platform-to-product execution.</li>
-        <li><b>Keywords:</b> SaMD thinking, monitoring, clinical workflow integration.</li>
-      </ul>
-      <div class="product-actions">
-        <a class="btn" href="https://www.cardioexplorer.ai/" target="_blank" rel="noopener">Website</a>
-      </div>
     </div>
   </article>
 
@@ -106,14 +90,6 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
     <div class="product-body">
       <h3><a href="https://www.accu-chek.ch/fachkraefte/smartguide" target="_blank" rel="noopener">Accu-Check SmartGuide CGM</a></h3>
       <p class="product-one-liner">CGM innovation combining sensing and analytics to improve diabetes management.</p>
-      <ul class="product-points">
-        <li><b>Impact:</b> ML-enabled digital health capability delivered in a real product context.</li>
-        <li><b>My role:</b> Product and ML contribution across modeling direction, evaluation, and integration.</li>
-        <li><b>Keywords:</b> time-series modeling, clinical utility, product constraints.</li>
-      </ul>
-      <div class="product-actions">
-        <a class="btn" href="https://www.accu-chek.ch/fachkraefte/smartguide" target="_blank" rel="noopener">Product</a>
-      </div>
     </div>
   </article>
 
@@ -124,32 +100,16 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
     <div class="product-body">
       <h3><a href="https://www.idorsia.com/our-innovation/portfolio/daridorexant.html" target="_blank" rel="noopener">Daridorexant</a></h3>
       <p class="product-one-liner">Orexin receptor antagonist program supported by evidence strategy and RWE.</p>
-      <ul class="product-points">
-        <li><b>Impact:</b> Evidence programs supporting development and access decisions.</li>
-        <li><b>My role:</b> RWE and HTA statistics leadership; endpoint strategy and stakeholder alignment.</li>
-        <li><b>Keywords:</b> real-world evidence, HTA readiness, commercialization support.</li>
-      </ul>
-      <div class="product-actions">
-        <a class="btn" href="https://www.idorsia.com/our-innovation/portfolio/daridorexant.html" target="_blank" rel="noopener">Program</a>
-      </div>
     </div>
   </article>
 
   <article class="product-row">
     <a class="product-media" href="https://www.toujeo.com/" target="_blank" rel="noopener">
-      <img src="/images/products/toujeo.png" alt="Toujeo" loading="lazy" />
+      <img class="toujeo-image" src="/images/products/toujeo.png" alt="Toujeo" loading="lazy" />
     </a>
     <div class="product-body">
       <h3><a href="https://www.toujeo.com/" target="_blank" rel="noopener">Toujeo</a></h3>
       <p class="product-one-liner">Long-acting insulin supported by real-world evidence and launch enablement work.</p>
-      <ul class="product-points">
-        <li><b>Impact:</b> Evidence strategy contributions supporting adoption and value demonstration.</li>
-        <li><b>My role:</b> RWE contribution including study design and outcomes framing.</li>
-        <li><b>Keywords:</b> outcomes, post-market evidence, value story.</li>
-      </ul>
-      <div class="product-actions">
-        <a class="btn" href="https://www.toujeo.com/" target="_blank" rel="noopener">Product</a>
-      </div>
     </div>
   </article>
 </section>
