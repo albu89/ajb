@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a **Product / Translational AI** leader who turns **machine learning and biological signal** into **deployable, clinically adopted, regulated medical products**. I lead end-to-end—from **product strategy and definition** to **clinical evidence/RWE**, **regulatory readiness**, and **building high-performing ML/engineering teams**.
+I’m a **Product / Translational AI** leader who turns **machine learning and biological signal** into **deployable, clinically adopted, regulated medical products**. I lead end-to-end—from **product strategy and definition** to **clinical evidence/RWE**, **regulatory readiness**, and **building high-performing ML/engineering teams**. test
 
 
 ## Short Bio  
