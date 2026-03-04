@@ -45,20 +45,18 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
   .product-row:first-of-type { border-top: none; }
   .product-media {
     border-radius: 12px;
-    min-height: 150px;
     display: block;
     overflow: hidden;
     text-decoration: none;
-    border: 1px solid rgba(127, 127, 127, 0.25);
-    background: rgba(255, 255, 255, 0.04);
   }
   .product-media img {
     width: 100%;
-    aspect-ratio: 4 / 3;
-    object-fit: contain;
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
     object-position: center;
     display: block;
-    padding: 8px;
+    border: 1px solid rgba(127, 127, 127, 0.35);
+    border-radius: 12px;
   }
   .product-body h3 { margin: 0 0 0.35rem 0; }
   .product-one-liner { margin: 0 0 0.85rem 0; opacity: 0.92; }
@@ -75,7 +73,6 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
   }
   @media (max-width: 900px) {
     .product-row { grid-template-columns: 1fr; }
-    .product-media { min-height: 110px; }
   }
 </style>
 
