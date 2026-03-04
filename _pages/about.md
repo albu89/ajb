@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a **Product / Translational AI** leader who turns **machine learning and biological signal** into **deployable, clinically adopted, regulated medical products**. I lead end-to-end—from **product strategy and definition** to **clinical evidence/RWE**, **regulatory readiness**, and **building high-performing ML/engineering teams**. test
+I’m a **Product / Translational AI** leader who turns **machine learning and biological signal** into **deployable, clinically adopted, regulated medical products**. I lead end-to-end—from **product strategy and definition** to **clinical evidence/RWE**, **regulatory readiness**, and **building high-performing ML/engineering teams**.
 
 
 ## Short Bio  
@@ -63,8 +63,32 @@ My work spans diagnostics and therapeutics, supporting multiple launched product
   }
   .product-body h3 { margin: 0 0 0.35rem 0; }
   .product-one-liner { margin: 0 0 0.85rem 0; opacity: 0.92; }
+  .product-row:nth-of-type(even) .product-media { order: 2; }
+  .product-row:nth-of-type(even) .product-body { order: 1; }
+  .work-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 0.5rem;
+  }
+  .work-button {
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 10px;
+    border-radius: 8px;
+    border: 1px solid rgba(127, 127, 127, 0.3);
+    text-decoration: none;
+    font-weight: 500;
+    background: transparent;
+    line-height: 1.1;
+  }
+  .work-button:hover {
+    border-color: rgba(48, 158, 215, 0.45);
+  }
   @media (max-width: 900px) {
     .product-row { grid-template-columns: 1fr; }
+    .product-row .product-media,
+    .product-row .product-body { order: initial; }
   }
 </style>
 
