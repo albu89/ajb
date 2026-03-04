@@ -1,3 +1,4 @@
+```md
 ---
 permalink: /
 title: About me
@@ -99,3 +100,4 @@ If you’re building at the intersection of **AI + biology + regulated medicine*
 
 **2022**  
 • IBM Outstanding Technical Achievement Award — contribution to development of a medical diagnostic
+```
