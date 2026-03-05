@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Product, Engineering & Real-World Evidence leader with 12+ years of experience in tech and biotech ([IBM](https://www.ibm.com), [Idorsia](https://www.idorsia.com), Roche, [Exploris Health](https://www.explorishealth.com/)). Expertise in machine learning ([EPFL](https://www.epfl.ch/en/), [IBM](https://www.ibm.com)), recognized with innovation awards and publications ([Nature Medicine](https://www.nature.com/nm/)). Proven ability to build high-performing R&D teams, playing a key role in launching a glucose management & prediction app that scaled to eight-figure (€) revenue in 3 years.
+Product, Engineering & Real-World Evidence leader with 12+ years of experience in tech and biotech ([IBM](https://www.ibm.com), [Idorsia](https://www.idorsia.com), Roche, [Exploris Health](https://www.explorishealth.com/)). Expertise in machine learning ([EPFL](https://www.epfl.ch/en/), [IBM](https://www.ibm.com)), recognized with innovation awards and publications ([Nature Medicine](https://www.nature.com/nm/)). Proven ability to build high-performing R&D teams, playing a key role in launching a [glucose management & prediction app](https://www.accu-chek.ch/fachkraefte/smartguide)that scaled to eight-figure (€) revenue in 3 years.
 
 
 ## Short Bio  
@@ -16,7 +16,7 @@ I’m the founding Product and Engineering leader at [Exploris Health](https://w
 
 Previously, I served as a Director at [Idorsia](https://www.idorsia.com), leading Real-World Evidence, HTA Statistics, and a Computational Science group supporting both development and commercialization. Before that, I was the Global Product and Machine Learning Leader at [IBM](https://www.ibm.com), responsible for the Life Sciences portfolio within IBM’s Global AI Team. I began my career as an Equity Structurer at [Deutsche Bank](https://www.db.com), developing quantitative models in high-pressure, decision-critical environments.
 
-I hold a postgraduate degree (Master’s level) in Computer Science from [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/). Over 12+ years across tech and biotech—from startups to blue-chip enterprises and across multiple geographies—I’ve focused on building computational precision medicine and digital health products, and have been recognized for innovation and contributions to publications such as [Nature Medicine](https://www.nature.com/nm/).
+I hold a postgraduate degree (Master’s level) in Computer Science from [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/). 
 
 
 ## Products & Translational Impact
@@ -100,7 +100,7 @@ I hold a postgraduate degree (Master’s level) in Computer Science from [École
     </a>
     <div class="product-body">
       <h3><a href="https://www.cardioexplorer.ai/" target="_blank" rel="noopener">Cardio Explorer</a></h3>
-      <p class="product-one-liner">AI diagnostic for chronic coronary syndrome, deployed in real-world clinical settings.</p>
+      <p class="product-one-liner">Built and led the science, regulatory, and product/engineering function end-to-end—from product-market fit through pre-market execution—hiring and managing a 5-person team, securing key regulatory approvals, driving early adoption with leading hospitals, and presenting foundational-model work at ESC and other major conferences..</p>
     </div>
   </article>
 
