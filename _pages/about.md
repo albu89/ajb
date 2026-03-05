@@ -19,7 +19,7 @@ Previously, I served as a Director at [Idorsia](https://www.idorsia.com), leadin
 I hold a postgraduate degree (Master’s level) in Computer Science from [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/). 
 
 
-## Products & Translational Impact
+## Selected Products & Translational Impact
 
 <style>
   .product-section { margin-top: 1rem; }
