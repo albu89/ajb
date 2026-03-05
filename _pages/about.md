@@ -80,6 +80,12 @@ I hold a postgraduate degree (Master’s level) in Computer Science from [École
     .product-row:nth-of-type(even) { grid-template-columns: 1fr; }
     .product-row .product-media,
     .product-row .product-body { order: initial; }
+    .product-row:nth-of-type(even) .product-media,
+    .product-row:nth-of-type(even) .product-body { order: initial; }
+    .product-media {
+      max-width: 360px;
+      margin: 0 auto 0.5rem auto;
+    }
   }
 </style>
 
