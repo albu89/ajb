@@ -12,7 +12,7 @@ Product, Engineering & Real-World Evidence leader with 12+ years of experience i
 
 ## Short Bio  
 
-I’m the founding Product and Engineering leader at Exploris Health, where I design and build clinical foundation models and AI diagnostics for cardiovascular disease. My work spans product positioning and placement, clinical development and evidence generation, and R&D of foundation models.
+I’m the founding Product and Engineering leader at [Exploris Health](https://www.explorishealth.com/), where I design and build clinical foundation models and AI diagnostics for cardiovascular disease. My work spans product positioning and placement, clinical development and evidence generation, and R&D of foundation models.
 
 Previously, I served as a Director at [Idorsia](https://www.idorsia.com), leading Real-World Evidence, HTA Statistics, and a Computational Science group supporting both development and commercialization. Before that, I was the Global Product and Machine Learning Leader at [IBM](https://www.ibm.com), responsible for the Life Sciences portfolio within IBM’s Global AI Team. I began my career as an Equity Structurer at [Deutsche Bank](https://www.db.com), developing quantitative models in high-pressure, decision-critical environments.
 
@@ -77,6 +77,7 @@ I hold a postgraduate degree (Master’s level) in Computer Science from [École
   }
   @media (max-width: 900px) {
     .product-row { grid-template-columns: 1fr; }
+    .product-row:nth-of-type(even) { grid-template-columns: 1fr; }
     .product-row .product-media,
     .product-row .product-body { order: initial; }
   }
