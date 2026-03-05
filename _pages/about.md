@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Product / Translational AI leader who turns machine learning and biological signal into deployable, clinically adopted, regulated medical products. I lead end-to-end—from product strategy and definition to clinical evidence/RWE, regulatory readiness, and building high-performing ML/engineering teams.
+Product, Engineering & Real-World Evidence leader with 12+ years of experience in tech and biotech ([IBM](https://www.ibm.com), [Idorsia](https://www.idorsia.com), Roche, [Exploris Health](https://www.explorishealth.com/)). Expertise in machine learning ([EPFL](https://www.epfl.ch/en/), [IBM](https://www.ibm.com)), recognized with innovation awards and publications ([Nature Medicine](https://www.nature.com/nm/)). Proven ability to build high-performing R&D teams, playing a key role in launching a glucose management & prediction app that scaled to eight-figure (€) revenue in 3 years.
 
 
 ## Short Bio  
