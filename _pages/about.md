@@ -124,10 +124,6 @@ I hold a postgraduate degree (Master’s level) in Computer Science from [École
 </style>
 
 <section class="product-section">
-  <p class="section-subtitle">
-    Selected products and programs.
-  </p>
-
   <article class="product-row">
     <a class="product-media" href="https://www.cardioexplorer.ai/" target="_blank" rel="noopener">
       <img src="/images/products/cardio-explorer.png" alt="Cardio Explorer" loading="lazy" />
@@ -143,6 +139,15 @@ I hold a postgraduate degree (Master’s level) in Computer Science from [École
             <path d="M10 9l5 3l-5 3l0 -6" />
           </svg>
           <span>YouTube</span>
+        </a>
+        <a class="product-link" href="https://drive.google.com/file/d/1tmrWQ8N9T1YAzYA-BiYiD0_NIEcPqHSG/view" target="_blank" rel="noopener">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M12 7v14"/>
+            <path d="M3 18a2 2 0 0 1 2 -2h7"/>
+            <path d="M3 6a2 2 0 0 1 2 -2h7v20H5a2 2 0 0 1 -2 -2z"/>
+            <path d="M12 4h7a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-7"/>
+          </svg>
+          <span>Poster</span>
         </a>
       </div>
     </div>
