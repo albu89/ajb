@@ -26,8 +26,8 @@ I hold a postgraduate degree (Master’s level) in Computer Science from [École
   .section-subtitle { max-width: 70ch; opacity: 0.9; margin-bottom: 1.25rem; }
   .product-row {
     display: grid;
-    grid-template-columns: 260px 1fr;
-    gap: 22px;
+    grid-template-columns: 220px minmax(0, 1fr);
+    gap: 20px;
     padding: 18px 0;
     border-top: 1px solid rgba(127, 127, 127, 0.25);
   }
@@ -50,8 +50,19 @@ I hold a postgraduate degree (Master’s level) in Computer Science from [École
   .product-media img.toujeo-image {
     object-position: top center;
   }
-  .product-body h3 { margin: 0 0 0.35rem 0; line-height: 1.2; }
-  .product-one-liner { margin: 0 0 0.75rem 0; opacity: 0.92; line-height: 1.45; }
+  .product-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 0;
+  }
+  .product-body h3 { margin: 0 0 0.3rem 0; line-height: 1.2; }
+  .product-one-liner {
+    margin: 0 0 0.6rem 0;
+    opacity: 0.92;
+    line-height: 1.4;
+    max-width: 62ch;
+  }
   .product-links {
     display: flex;
     flex-wrap: wrap;
@@ -74,7 +85,7 @@ I hold a postgraduate degree (Master’s level) in Computer Science from [École
     height: 16px;
     flex: 0 0 16px;
   }
-  .product-row:nth-of-type(even) { grid-template-columns: 1fr 260px; }
+  .product-row:nth-of-type(even) { grid-template-columns: minmax(0, 1fr) 220px; }
   .product-row:nth-of-type(even) .product-media { order: 2; }
   .product-row:nth-of-type(even) .product-body { order: 1; }
   .work-buttons {
@@ -105,7 +116,7 @@ I hold a postgraduate degree (Master’s level) in Computer Science from [École
     .product-row:nth-of-type(even) .product-media,
     .product-row:nth-of-type(even) .product-body { order: initial; }
     .product-media {
-      max-width: 360px;
+      max-width: 320px;
       margin: 0 auto 0.5rem auto;
     }
     .product-links { margin-top: 0.35rem; }
