@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: About me
+title: Alexander John Büsser
 author_profile: true
 redirect_from: 
   - /about/
@@ -50,8 +50,30 @@ I hold a postgraduate degree (Master’s level) in Computer Science from [École
   .product-media img.toujeo-image {
     object-position: top center;
   }
-  .product-body h3 { margin: 0 0 0.35rem 0; }
-  .product-one-liner { margin: 0 0 0.85rem 0; opacity: 0.92; }
+  .product-body h3 { margin: 0 0 0.35rem 0; line-height: 1.2; }
+  .product-one-liner { margin: 0 0 0.75rem 0; opacity: 0.92; line-height: 1.45; }
+  .product-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 0.15rem;
+  }
+  .product-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 10px;
+    border-radius: 8px;
+    border: 1px solid rgba(127, 127, 127, 0.3);
+    text-decoration: none;
+    line-height: 1.1;
+    font-size: 0.95rem;
+  }
+  .product-link svg {
+    width: 16px;
+    height: 16px;
+    flex: 0 0 16px;
+  }
   .product-row:nth-of-type(even) { grid-template-columns: 1fr 260px; }
   .product-row:nth-of-type(even) .product-media { order: 2; }
   .product-row:nth-of-type(even) .product-body { order: 1; }
@@ -86,6 +108,7 @@ I hold a postgraduate degree (Master’s level) in Computer Science from [École
       max-width: 360px;
       margin: 0 auto 0.5rem auto;
     }
+    .product-links { margin-top: 0.35rem; }
   }
 </style>
 
@@ -100,7 +123,17 @@ I hold a postgraduate degree (Master’s level) in Computer Science from [École
     </a>
     <div class="product-body">
       <h3><a href="https://www.cardioexplorer.ai/" target="_blank" rel="noopener">Cardio Explorer</a></h3>
-      <p class="product-one-liner">Built and led the science, regulatory, and product/engineering function end-to-end—from product-market fit through pre-market execution—hiring and managing a 5-person team, securing key regulatory approvals, driving early adoption with leading hospitals, and presenting foundational-model work at ESC and other major conferences..</p>
+      <p class="product-one-liner">Built and led the science, regulatory, and product/engineering function end-to-end; hired and managed a 5-person team, secured key regulatory approvals, and drove early adoption with leading hospitals.</p>
+      <div class="product-links">
+        <a class="product-link" href="https://www.youtube.com/watch?v=wA3W-pthrIM" target="_blank" rel="noopener">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+            <path d="M2 8a4 4 0 0 1 4 -4h12a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-12a4 4 0 0 1 -4 -4v-8" />
+            <path d="M10 9l5 3l-5 3l0 -6" />
+          </svg>
+          <span>YouTube</span>
+        </a>
+      </div>
     </div>
   </article>
 
