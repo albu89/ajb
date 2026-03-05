@@ -142,6 +142,5 @@ My research centers on representation learning for clinical and physiological da
 • enhance diagnostic accuracy and treatment-effect estimation, and  
 • apply language models to learn new [disease representations (ontologies)](https://www.nature.com/articles/s43856-024-00698-2) 
 
-My work spans diagnostics and therapeutics, supporting multiple launched products and demonstrating strong translational and regulatory impact. I focus on bridging foundational research with deployable, clinically trustworthy AI systems.
 
 
