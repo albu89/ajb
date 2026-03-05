@@ -7,17 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Product / Translational AI leader who turns machine learning and biological signal** into deployable, clinically adopted, regulated medical products. I lead end-to-end—from product strategy and definition** to clinical evidence/RWE, regulatory readiness, and **building high-performing ML/engineering teams.
+I’m a Product / Translational AI leader who turns machine learning and biological signal into deployable, clinically adopted, regulated medical products. I lead end-to-end—from product strategy and definition to clinical evidence/RWE, regulatory readiness, and building high-performing ML/engineering teams.
 
 
 ## Short Bio  
 
-I am the founding Product and Engineering leader at Exploris Health, where I design and build  clinical foundation models and AI diagnostics for cardiovascular disease. My work spans product positioning & placement, clinical development (evidence generation) and R&D of foundational models. 
+I’m the founding Product and Engineering leader at Exploris Health, where I design and build clinical foundation models and AI diagnostics for cardiovascular disease. My work spans product positioning and placement, clinical development and evidence generation, and R&D of foundation models.
 
-Previously, I served as a Director at [Idorsia](https://www.idorsia.com), where I led Real-World Evidence, HTA Statistics, and a Computational Science group supporting both development and commercialization. Before that, I was the Global Product and Machine Learning Leader at [IBM](https://www.ibm.com), responsible for the Life Sciences portfolio within IBM’s Global AI Team. I began my career as an Equity Structurer at [Deutsche Bank](https://www.db.com), developing quantitative models in high-pressure, decision-critical environments.
+Previously, I served as a Director at [Idorsia](https://www.idorsia.com), leading Real-World Evidence, HTA Statistics, and a Computational Science group supporting both development and commercialization. Before that, I was the Global Product and Machine Learning Leader at [IBM](https://www.ibm.com), responsible for the Life Sciences portfolio within IBM’s Global AI Team. I began my career as an Equity Structurer at [Deutsche Bank](https://www.db.com), developing quantitative models in high-pressure, decision-critical environments.
+
+I hold a postgraduate degree (Master’s level) in Computer Science from [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/). Over 12+ years across tech and biotech—from startups to blue-chip enterprises and across multiple geographies—I’ve focused on building computational precision medicine and digital health products, and have been recognized for innovation and contributions to publications such as [Nature Medicine](https://www.nature.com/nm/).
+
+
 
 <p style="margin: 1rem 0 1.5rem 0;">
-  <img src="/images/affiliations-strip.png" alt="Affiliations: EPFL, IBM, Idorsia, Nature, ESC" style="width: 100%; max-width: 760px; height: auto;" />
+  <img src="/images/affiliation_transparent.png" alt="Affiliations: EPFL, IBM, Idorsia, Nature, ESC" style="width: 100%; max-width: 760px; height: auto;" />
 </p>
 
 
