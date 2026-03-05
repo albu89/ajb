@@ -19,12 +19,6 @@ Previously, I served as a Director at [Idorsia](https://www.idorsia.com), leadin
 I hold a postgraduate degree (Master’s level) in Computer Science from [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/). Over 12+ years across tech and biotech—from startups to blue-chip enterprises and across multiple geographies—I’ve focused on building computational precision medicine and digital health products, and have been recognized for innovation and contributions to publications such as [Nature Medicine](https://www.nature.com/nm/).
 
 
-
-<p style="margin: 1rem 0 1.5rem 0;">
-  <img src="/images/affiliation_transparent.png" alt="Affiliations: EPFL, IBM, Idorsia, Nature, ESC" style="width: 100%; max-width: 760px; height: auto;" />
-</p>
-
-
 ## Products & Translational Impact
 
 <style>
