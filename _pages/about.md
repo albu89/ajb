@@ -9,14 +9,15 @@ redirect_from:
 
 My goal is to advance the state-of-the-art in AI and healthcare, and to build solutions that benefit millions of people around the world. 
 
-I have 12+ year of leadership experience in tech and biotech ([IBM](https://www.ibm.com), [Idorsia](https://www.idorsia.com), Roche, [Exploris Health](https://www.explorishealth.com/)). Expertise in machine learning ([EPFL](https://www.epfl.ch/en/), [IBM](https://www.ibm.com)) and have been recognized with innovation awards and publications ([Nature Medicine](https://www.nature.com/nm/)).
+I bring more than 12+ year of leadership experience accross tech and biotech including roles at [IBM](https://www.ibm.com), [Idorsia](https://www.idorsia.com, Roche, and [Exploris Health](https://www.explorishealth.com/)).
 
+ My background combines expertise in machine learning from leading accademic institutions [EPFL](https://www.epfl.ch/en/), [SNU](https://en.snu.ac.kr/) and  [IBM](https://www.ibm.com)) with a strong track record of innovation recognized through publications ([Nature Medicine](https://www.nature.com/nm/)) and industry awards.
 
-I have played a key role in launching a [glucose management & prediction app](https://www.accu-chek.ch/fachkraefte/smartguide) and helped scale it to eight-figure (€) revenue in under 3 years. 
+Additionally I have a strong clinical background having influenced and lead evidence programs and departments at [GSK](https://www.gsk.com), [Sanofi](https://www.sanofi.com), and [Idorsia](https://www.idorsia.com). My experitse lies in unsing real-world evidence to accelerated product launches.  
+
+I have used my expertise in ML and clincal validation to launch two diagnostic products in indecrinology and cardiology, playing a key role in scaling  [glucose management & prediction app](https://www.accu-chek.ch/fachkraefte/smartguide)  to eight-figure (€) revenue in under 3 years. 
 
 My current focus is on developing foundational model for the early detection of coronary artery disease and the avoidance of myocardial infarction. 
-
-
 
 
 ## Selected Products & Translational Impact
