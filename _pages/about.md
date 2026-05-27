@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Product, Engineering & Real-World Evidence leader with 12+ years of experience in tech and biotech ([IBM](https://www.ibm.com), [Idorsia](https://www.idorsia.com), Roche, [Exploris Health](https://www.explorishealth.com/)). Expertise in machine learning ([EPFL](https://www.epfl.ch/en/), [IBM](https://www.ibm.com)), recognized with innovation awards and publications ([Nature Medicine](https://www.nature.com/nm/)). Proven ability to build high-performing R&D teams, playing a key role in launching a [glucose management & prediction app](https://www.accu-chek.ch/fachkraefte/smartguide)that scaled to eight-figure (€) revenue in 3 years.
+My goal is to advance the state-of-the-art in AI and healthcare, and to build solutions that benefit millions of people around the world. 
+
+I have 12+ year of leadership experience in tech and biotech ([IBM](https://www.ibm.com), [Idorsia](https://www.idorsia.com), Roche, [Exploris Health](https://www.explorishealth.com/)). Expertise in machine learning ([EPFL](https://www.epfl.ch/en/), [IBM](https://www.ibm.com)) and have been recognized with innovation awards and publications ([Nature Medicine](https://www.nature.com/nm/)).
 
 
-## Short Bio  
+I have played a key role in launching a [glucose management & prediction app](https://www.accu-chek.ch/fachkraefte/smartguide) and helped scale it to eight-figure (€) revenue in under 3 years. 
 
-I’m the founding Product and Engineering leader at [Exploris Health](https://www.explorishealth.com/), where I design and build clinical foundation models and AI diagnostics for cardiovascular disease. My work spans product positioning and placement, clinical development and evidence generation, and R&D of foundation models.
+My current focus is on developing foundational model for the early detection of coronary artery disease and the avoidance of myocardial infarction. 
 
-Previously, I served as a Director at [Idorsia](https://www.idorsia.com), leading Real-World Evidence, HTA Statistics, and a Computational Science group supporting both development and commercialization. Before that, I was the Global Product and Machine Learning Leader at [IBM](https://www.ibm.com), responsible for the Life Sciences portfolio within IBM’s Global AI Team. I began my career as an Equity Structurer at [Deutsche Bank](https://www.db.com), developing quantitative models in high-pressure, decision-critical environments.
 
-I hold a postgraduate degree (Master’s level) in Computer Science from [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/). 
 
 
 ## Selected Products & Translational Impact
@@ -159,7 +159,7 @@ I hold a postgraduate degree (Master’s level) in Computer Science from [École
     </a>
     <div class="product-body">
       <h3><a href="https://www.accu-chek.ch/fachkraefte/smartguide" target="_blank" rel="noopener">Accu-Check SmartGuide CGM</a></h3>
-      <p class="product-one-liner">CGM innovation combining sensing and analytics to improve diabetes management.</p>
+      <p class="product-one-liner">●	Responsible for the full product lifecycle for an AI-driven Software-as-a-Medical-Device (SaMD), managing a seven-figure (€) budget. Scaled the engineering & product team from early-stage R&D (2 FTE) to 30+ FTE and substantially improved diagnostic algorithms using early transformer architectures, earning a global IBM Innovation Award. </p>
     </div>
   </article>
 
@@ -186,8 +186,7 @@ I hold a postgraduate degree (Master’s level) in Computer Science from [École
 
 
 
-
-## Research & Innovation 
+## Research interests 
 
 My research centers on representation learning for clinical and physiological data, with an emphasis on safety, grounding, and translational utility. I develop methods that:
 
