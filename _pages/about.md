@@ -7,20 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-My goal is to advance the state-of-the-art in AI and healthcare, and to build solutions that benefit millions of people around the world. 
+I build clinically deployable AI systems for diagnostics, disease modeling, and real-world evidence generation.
 
-I bring more than 12+ year of leadership experience accross tech and biotech including roles at [IBM](https://www.ibm.com), [Idorsia](https://www.idorsia.com, Roche, and [Exploris Health](https://www.explorishealth.com/)).
+Over the past decade I have led AI, product, and engineering initiatives across [IBM](https://www.ibm.com), Roche, [Idorsia](https://www.idorsia.com), and [Exploris Health](https://www.explorishealth.com/) — contributing to launched medical products, regulatory-grade diagnostics, and large-scale real-world evidence platforms.
 
- My background combines expertise in machine learning from leading accademic institutions [EPFL](https://www.epfl.ch/en/), [SNU](https://en.snu.ac.kr/) and  [IBM](https://www.ibm.com)) with a strong track record of innovation recognized through publications ([Nature Medicine](https://www.nature.com/nm/)) and industry awards.
+My current focus areas:
 
-Additionally I have a strong clinical background having influenced and lead evidence programs and departments at [GSK](https://www.gsk.com), [Sanofi](https://www.sanofi.com), and [Idorsia](https://www.idorsia.com). My experitse lies in unsing real-world evidence to accelerated product launches.  
+- clinically grounded foundation models
+- multimodal disease representation learning
+- regulatory-grade AI for diagnostics
+- translational evidence generation across pharma and devices
 
-I have used my expertise in ML and clincal validation to launch two diagnostic products in indecrinology and cardiology, playing a key role in scaling  [glucose management & prediction app](https://www.accu-chek.ch/fachkraefte/smartguide)  to eight-figure (€) revenue in under 3 years. 
+My background combines machine learning training at [EPFL](https://www.epfl.ch/en/), [SNU](https://en.snu.ac.kr/), and [IBM](https://www.ibm.com) with a strong clinical track record — having shaped or led evidence programs at [GSK](https://www.gsk.com), [Sanofi](https://www.sanofi.com), and [Idorsia](https://www.idorsia.com). I have used this combination to launch two diagnostic products in endocrinology and cardiology, including the [Accu-Chek SmartGuide CGM](https://www.accu-chek.ch/fachkraefte/smartguide), which scaled to eight-figure (€) revenue in under three years.
 
-My current focus is on developing foundational model for the early detection of coronary artery disease and the avoidance of myocardial infarction. 
-
-
-## Selected Products & Translational Impact
+My current focus is developing foundation models for the early detection of coronary artery disease — to help prevent avoidable myocardial infarctions.
 
 <style>
   .product-section { margin-top: 1rem; }
@@ -98,17 +98,73 @@ My current focus is on developing foundational model for the early detection of 
   .work-button {
     display: inline-flex;
     align-items: center;
-    padding: 6px 10px;
+    padding: 8px 14px;
     border-radius: 8px;
-    border: 1px solid rgba(127, 127, 127, 0.3);
+    border: 1px solid rgba(127, 127, 127, 0.35);
     text-decoration: none;
     font-weight: 500;
     background: transparent;
     line-height: 1.1;
   }
   .work-button:hover {
-    border-color: rgba(48, 158, 215, 0.45);
+    border-color: rgba(48, 158, 215, 0.55);
   }
+
+  .impact-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 14px;
+    margin: 1rem 0 1.5rem 0;
+  }
+  .impact-card {
+    border: 1px solid rgba(127, 127, 127, 0.25);
+    border-radius: 12px;
+    padding: 14px 16px;
+    background: transparent;
+    transition: border-color 0.15s ease;
+  }
+  .impact-card:hover { border-color: rgba(48, 158, 215, 0.45); }
+  .impact-card h4 {
+    margin: 0 0 0.35rem 0;
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    opacity: 0.7;
+  }
+  .impact-card p {
+    margin: 0;
+    line-height: 1.45;
+    font-size: 0.95rem;
+  }
+
+  .theme-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 14px;
+    margin: 1rem 0 1.5rem 0;
+  }
+  .theme-card {
+    border: 1px solid rgba(127, 127, 127, 0.25);
+    border-radius: 12px;
+    padding: 16px 18px;
+    background: transparent;
+    transition: border-color 0.15s ease;
+  }
+  .theme-card:hover { border-color: rgba(48, 158, 215, 0.45); }
+  .theme-card h3 {
+    margin: 0 0 0.4rem 0;
+    font-size: 1rem;
+    line-height: 1.25;
+  }
+  .theme-card p {
+    margin: 0;
+    font-size: 0.93rem;
+    line-height: 1.45;
+    opacity: 0.92;
+  }
+
+  .work-cta { margin-top: 0.75rem; }
+
   @media (max-width: 900px) {
     .product-row { grid-template-columns: 1fr; }
     .product-row:nth-of-type(even) { grid-template-columns: 1fr; }
@@ -123,6 +179,37 @@ My current focus is on developing foundational model for the early detection of 
     .product-links { margin-top: 0.35rem; }
   }
 </style>
+
+## At a glance
+
+<section class="impact-grid">
+  <div class="impact-card">
+    <h4>Diagnostics</h4>
+    <p>Two launched products in endocrinology and cardiology, deployed in real clinical practice.</p>
+  </div>
+  <div class="impact-card">
+    <h4>Pharma evidence</h4>
+    <p>Real-world evidence work supporting launches of blockbuster therapeutics including <a href="https://www.idorsia.com/our-innovation/portfolio/daridorexant.html">Daridorexant</a> and <a href="https://www.toujeo.com/">Toujeo</a>.</p>
+  </div>
+  <div class="impact-card">
+    <h4>Publications</h4>
+    <p><a href="https://www.nature.com/nm/">Nature Medicine</a>, <a href="https://www.nature.com/articles/s43856-024-00698-2">Communications Medicine</a>, and issued <a href="https://patents.google.com/patent/US20230092186A1/en">patents</a>.</p>
+  </div>
+  <div class="impact-card">
+    <h4>Industry</h4>
+    <p>IBM, Roche, Idorsia, Exploris Health. Global IBM Innovation Award recipient.</p>
+  </div>
+  <div class="impact-card">
+    <h4>AI focus</h4>
+    <p>Clinical foundation models and multimodal disease representation learning.</p>
+  </div>
+  <div class="impact-card">
+    <h4>Regulatory</h4>
+    <p>Hands-on experience shipping Software-as-a-Medical-Device (SaMD) under regulated quality systems.</p>
+  </div>
+</section>
+
+## Selected Products & Translational Impact
 
 <section class="product-section">
   <article class="product-row">
@@ -160,7 +247,7 @@ My current focus is on developing foundational model for the early detection of 
     </a>
     <div class="product-body">
       <h3><a href="https://www.accu-chek.ch/fachkraefte/smartguide" target="_blank" rel="noopener">Accu-Check SmartGuide CGM</a></h3>
-      <p class="product-one-liner">●	Responsible for the full product lifecycle for an AI-driven Software-as-a-Medical-Device (SaMD), managing a seven-figure (€) budget. Scaled the engineering & product team from early-stage R&D (2 FTE) to 30+ FTE and substantially improved diagnostic algorithms using early transformer architectures, earning a global IBM Innovation Award. </p>
+      <p class="product-one-liner">Responsible for the full product lifecycle for an AI-driven Software-as-a-Medical-Device (SaMD), managing a seven-figure (€) budget. Scaled the engineering and product team from early-stage R&amp;D (2 FTE) to 30+ FTE and substantially improved diagnostic algorithms using early transformer architectures, earning a global IBM Innovation Award.</p>
     </div>
   </article>
 
@@ -185,17 +272,47 @@ My current focus is on developing foundational model for the early detection of 
   </article>
 </section>
 
+## Current Research Themes
 
+My research centers on representation learning for clinical and physiological data, with an emphasis on safety, grounding, and translational utility.
 
-## Research interests 
+<section class="theme-grid">
+  <article class="theme-card">
+    <h3>Physiologically grounded foundation models</h3>
+    <p>Guiding transformers toward <a href="https://patents.google.com/patent/US20230092186A1/en">physiologically meaningful behavior</a> rather than purely statistical pattern matching.</p>
+  </article>
+  <article class="theme-card">
+    <h3>Clinical representation learning</h3>
+    <p>Compact, transferable representations of patients, encounters, and trajectories learned from noisy real-world data.</p>
+  </article>
+  <article class="theme-card">
+    <h3>Disease ontology learning</h3>
+    <p>Using language models to learn new <a href="https://www.nature.com/articles/s43856-024-00698-2">disease representations</a> directly from clinical text and codes.</p>
+  </article>
+  <article class="theme-card">
+    <h3>Multimodal cardiovascular diagnostics</h3>
+    <p>Combining laboratory, imaging, and signal modalities for the earliest possible detection of coronary artery disease.</p>
+  </article>
+  <article class="theme-card">
+    <h3>Real-world evidence modeling</h3>
+    <p>Methods for treatment-effect estimation and biomarker discovery on biased, incomplete observational data.</p>
+  </article>
+  <article class="theme-card">
+    <h3>Translational ML safety</h3>
+    <p>Safety, calibration, and uncertainty quantification for models intended for regulated clinical deployment.</p>
+  </article>
+</section>
 
-My research centers on representation learning for clinical and physiological data, with an emphasis on safety, grounding, and translational utility. I develop methods that:
+## Work with me
 
-• model noisy, biased, and incomplete real-world data,  
-• guide transformers toward [physiologically meaningful behavior](https://patents.google.com/patent/US20230092186A1/en),  
-• improve biomarker discovery and multimodal disease modeling,  
-• enhance diagnostic accuracy and treatment-effect estimation, and  
-• apply language models to learn new [disease representations (ontologies)](https://www.nature.com/articles/s43856-024-00698-2) 
+I take on a small number of selective engagements each year. Areas where I'm most useful:
 
+- AI diagnostics and foundation-model strategy
+- Real-world evidence design for product launches
+- Product and engineering leadership for regulated AI / SaMD
+- Scientific advisory for HealthTech startups and pharma teams
+- Invited talks and workshops
 
-
+<p class="work-cta">
+  <a class="work-button" href="mailto:aj.buesser@gmail.com">Get in touch</a>
+</p>
