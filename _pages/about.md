@@ -9,6 +9,8 @@ redirect_from:
 
 I build clinically deployable AI systems for diagnostics, disease modeling, and real-world evidence generation.
 
+<p class="now-line"><span class="now-dot" aria-hidden="true"></span><strong>Currently:</strong> building <a href="https://www.cardioexplorer.ai/">Cardio Explorer</a> at Exploris Health. Open to advisory engagements, speaking, and select pro bono work.</p>
+
 Over the past decade I have led AI, product, and engineering initiatives across [IBM](https://www.ibm.com), Roche, [Idorsia](https://www.idorsia.com), and [Exploris Health](https://www.explorishealth.com/) — contributing to launched medical products, regulatory-grade diagnostics, and large-scale real-world evidence platforms.
 
 My current focus areas:
@@ -163,7 +165,50 @@ My current focus is developing foundation models for the early detection of coro
     opacity: 0.92;
   }
 
-  .work-cta { margin-top: 0.75rem; }
+  .now-line {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 12px;
+    margin: 0.25rem 0 1rem 0;
+    border-radius: 999px;
+    border: 1px solid rgba(48, 158, 215, 0.35);
+    background: rgba(48, 158, 215, 0.06);
+    font-size: 0.92rem;
+    line-height: 1.4;
+  }
+  .now-dot {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: rgb(48, 158, 215);
+    box-shadow: 0 0 0 4px rgba(48, 158, 215, 0.18);
+    flex: 0 0 8px;
+  }
+
+  .work-cta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 1rem;
+  }
+  .work-button.primary {
+    background: rgb(48, 158, 215);
+    border-color: rgb(48, 158, 215);
+    color: #fff;
+  }
+  .work-button.primary:hover {
+    background: rgb(34, 138, 195);
+    border-color: rgb(34, 138, 195);
+    color: #fff;
+  }
+  .work-button svg {
+    width: 16px;
+    height: 16px;
+    margin-right: 6px;
+    flex: 0 0 16px;
+  }
 
   @media (max-width: 900px) {
     .product-row { grid-template-columns: 1fr; }
@@ -305,14 +350,28 @@ My research centers on representation learning for clinical and physiological da
 
 ## Work with me
 
-I take on a small number of selective engagements each year. Areas where I'm most useful:
+I'm currently open to **advisory engagements, speaking, and select pro bono work**. Not actively job-searching, but happy to have the conversation for the right team or mission.
+
+Areas where I'm most useful:
 
 - AI diagnostics and foundation-model strategy
 - Real-world evidence design for product launches
 - Product and engineering leadership for regulated AI / SaMD
 - Scientific advisory for HealthTech startups and pharma teams
-- Invited talks and workshops
+- Invited talks and workshops on AI in healthcare
 
-<p class="work-cta">
-  <a class="work-button" href="mailto:aj.buesser@gmail.com">Get in touch</a>
-</p>
+<div class="work-cta">
+  <a class="work-button primary" href="mailto:aj.buesser@gmail.com">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M3 7l9 6l9 -6"/>
+      <path d="M3 6m0 2a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2z"/>
+    </svg>
+    <span>Email me</span>
+  </a>
+  <a class="work-button" href="https://www.linkedin.com/in/abu89/" target="_blank" rel="noopener">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+      <path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2zM8 11a1 1 0 0 0 -1 1v5a1 1 0 0 0 2 0v-5a1 1 0 0 0 -1 -1zM8 7.5a1.5 1.5 0 1 0 0 3a1.5 1.5 0 0 0 0 -3zM13 11a1 1 0 0 0 -1 1v5a1 1 0 0 0 2 0v-2.5c0 -.83 .67 -1.5 1.5 -1.5s1.5 .67 1.5 1.5v2.5a1 1 0 0 0 2 0v-2.5a3.5 3.5 0 0 0 -6 -2.46v-.04a1 1 0 0 0 -1 -1z"/>
+    </svg>
+    <span>Message on LinkedIn</span>
+  </a>
+</div>

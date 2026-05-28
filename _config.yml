@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Alexander Büsser's Site"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+title                    : "AI for diagnostics & translational medicine"
+title_separator          : "·"
+name                     : &name "Alexander Büsser"
+description              : &description "Alexander Büsser builds clinically deployable AI systems for diagnostics, disease modeling, and real-world evidence generation. Foundation models, regulatory-grade SaMD, and translational machine learning."
 url                      : https://alexanderbuesser.com # Custom domain
 baseurl                  : "" # No subpath needed with custom domain
 repository               : "albu89/ajb"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "bio-photo.jpg"
   name             : "Alexander Büsser"
-  bio              : "I am an engineer and entrepreneur building AI solutions to solve complex challenges at the intersection of science and medicine."
+  bio              : "AI, product, and engineering leader building clinically deployable AI for diagnostics, disease modeling, and real-world evidence."
   location         : "Zurich, Switzerland"
   employer         : "Exploris Health"
   uri              : # URL
@@ -136,14 +136,18 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "bio-photo.jpg"  # Social media default site image
+og_description           : "AI, product, and engineering leader building clinically deployable AI for diagnostics, disease modeling, and real-world evidence."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Alexander Büsser"
+  links:
+    - "https://www.linkedin.com/in/abu89/"
+    - "https://github.com/albu89"
+    - "https://scholar.google.com/citations?user=NKK3kbMAAAAJ&hl=en"
+    - "https://orcid.org/0009-0007-3010-8679"
 
 
 # Analytics
