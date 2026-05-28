@@ -9,8 +9,6 @@ redirect_from:
 
 I build clinically deployable AI systems for diagnostics, disease modeling, and real-world evidence generation.
 
-<p class="now-line"><span class="now-dot" aria-hidden="true"></span><strong>Currently:</strong> building <a href="https://www.cardioexplorer.ai/">Cardio Explorer</a> at Exploris Health. Open to advisory engagements, speaking, and select pro bono work.</p>
-
 Over the past decade I have led AI, product, and engineering initiatives across [IBM](https://www.ibm.com), Roche, [Idorsia](https://www.idorsia.com), and [Exploris Health](https://www.explorishealth.com/) — contributing to launched medical products, regulatory-grade diagnostics, and large-scale real-world evidence platforms.
 
 My current focus areas:
@@ -163,28 +161,6 @@ My current focus is developing foundation models for the early detection of coro
     font-size: 0.93rem;
     line-height: 1.45;
     opacity: 0.92;
-  }
-
-  .now-line {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 6px 12px;
-    margin: 0.25rem 0 1rem 0;
-    border-radius: 999px;
-    border: 1px solid rgba(48, 158, 215, 0.35);
-    background: rgba(48, 158, 215, 0.06);
-    font-size: 0.92rem;
-    line-height: 1.4;
-  }
-  .now-dot {
-    display: inline-block;
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: rgb(48, 158, 215);
-    box-shadow: 0 0 0 4px rgba(48, 158, 215, 0.18);
-    flex: 0 0 8px;
   }
 
   .work-cta {
