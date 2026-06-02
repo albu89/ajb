@@ -206,7 +206,7 @@ My current focus is developing foundation models for the early detection of coro
 <section class="impact-grid">
   <div class="impact-card">
     <h4>Diagnostics</h4>
-    <p>Two launched products in endocrinology and cardiology, deployed in real clinical practice.</p>
+    <p>Two launched products in endocrinology and cardiology, deployed in real clinical practice: <a href="https://www.accu-chek.ch/fachkraefte/smartguide">Accu-Chek SmartGuide CGM</a> and <a href="https://www.cardioexplorer.ai/">Cardio Explorer</a>.</p>
   </div>
   <div class="impact-card">
     <h4>Pharma evidence</h4>
@@ -226,7 +226,7 @@ My current focus is developing foundation models for the early detection of coro
   </div>
   <div class="impact-card">
     <h4>Regulatory</h4>
-    <p>Hands-on experience shipping Software-as-a-Medical-Device (SaMD) under regulated quality systems.</p>
+    <p>Hands-on experience shipping Software-as-a-Medical-Device (SaMD) under regulated quality systems, with a strong focus on clinical evidence generation for regulatory approval.</p>
   </div>
 </section>
 
@@ -279,6 +279,26 @@ My current focus is developing foundation models for the early detection of coro
     <div class="product-body">
       <h3><a href="https://www.idorsia.com/our-innovation/portfolio/daridorexant.html" target="_blank" rel="noopener">Daridorexant</a></h3>
       <p class="product-one-liner">Orexin receptor antagonist program supported by evidence strategy and RWE.</p>
+      <div class="product-links">
+        <a class="product-link" href="/publication/2023-08-03-insomnia-burden-real-world" target="_blank" rel="noopener">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M12 7v14"/>
+            <path d="M3 18a2 2 0 0 1 2 -2h7"/>
+            <path d="M3 6a2 2 0 0 1 2 -2h7v20H5a2 2 0 0 1 -2 -2z"/>
+            <path d="M12 4h7a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-7"/>
+          </svg>
+          <span>Publication</span>
+        </a>
+        <a class="product-link" href="/publication/2023-05-01-gaba-insomnia-daytime-impairment" target="_blank" rel="noopener">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M12 7v14"/>
+            <path d="M3 18a2 2 0 0 1 2 -2h7"/>
+            <path d="M3 6a2 2 0 0 1 2 -2h7v20H5a2 2 0 0 1 -2 -2z"/>
+            <path d="M12 4h7a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-7"/>
+          </svg>
+          <span>Abstract</span>
+        </a>
+      </div>
     </div>
   </article>
 
@@ -324,17 +344,17 @@ My research centers on representation learning for clinical and physiological da
   </article>
 </section>
 
-## Work with me
+## Reach out
 
-I'm currently open to **advisory engagements, speaking, and select pro bono work**. Not actively job-searching, but happy to have the conversation for the right team or mission.
+I welcome thoughtful conversations with teams and founders working on meaningful healthcare and AI challenges.
 
-Areas where I'm most useful:
+Topics I'm especially happy to discuss:
 
-- AI diagnostics and foundation-model strategy
+- AI diagnostics and foundation model strategy
 - Real-world evidence design for product launches
 - Product and engineering leadership for regulated AI / SaMD
 - Scientific advisory for HealthTech startups and pharma teams
-- Invited talks and workshops on AI in healthcare
+- Speaking engagements and workshops on AI in healthcare
 
 <div class="work-cta">
   <a class="work-button primary" href="mailto:aj.buesser@gmail.com">
